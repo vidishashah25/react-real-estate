@@ -9,13 +9,11 @@ import Bars from '../images/Bars.svg';
 const Nav = styled.nav`
     height:60px;
     display : flex;
-    background : #000;
     justify-content: space-between;
     padding:1ream 2rem;
     z-index: 100;
     position: fixed;
     width: 100%;
-    background : red;
 `;
 
 const NavLink = css`
